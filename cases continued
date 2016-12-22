@@ -1,0 +1,14 @@
+case "What is your name?":
+            $botMessage="tictatBot";
+file_get_contents($website."/sendmessage?chat_id=".$chatId."&text=".$botMessage);
+            break;
+
+             case "what is your name?":
+            $botMessage="tictatBot";
+file_get_contents($website."/sendmessage?chat_id=".$chatId."&text=".$botMessage);
+            break;
+
+             case "WHAT IS YOUR NAME?":
+            $botMessage="tictatBot";
+file_get_contents($website."/sendmessage?chat_id=".$chatId."&text=".$botMessage);
+            break;
